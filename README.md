@@ -5,9 +5,7 @@
 
 <!-- Add your details -->
 ✉️: ethan.ws.siew@gmail.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ethan-siew-a5108a125/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
