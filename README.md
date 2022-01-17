@@ -39,7 +39,7 @@ June-2021 to Dec-2021
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
+##### University of Nottingham
 Master of Business Administration 2018, Distinction
 Engineering Graduate 2010-14, First Division
 
@@ -74,8 +74,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+
 
 ##### Achievements
-Star performer of the year at Accenture
+
 <!-- FEATURED Section Ends -->
