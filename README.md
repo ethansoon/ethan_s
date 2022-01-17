@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Ethan Siew__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Ethan Siew__, InfoComm Technology graduate passionate about data analytics, proficient in a range of analytic tools including Python Programming, MS Excel and Power BI. Seeking out new challenges and projects.
 
 
 <!-- Add link to the sections -->
@@ -30,14 +30,9 @@ I am __Ethan Siew__, a seasoned data scientist with ~7 years of progressive expe
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
-
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
-
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+##### Business and Data Analytics, Digital BCG
+Trainee<br>
+June-2021 to Dec-2021
 
 <!-- EXPERIENCE Section Ends -->
 
@@ -45,6 +40,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### LNCT Bhopal
+Master of Business Administration 2018, Distinction
 Engineering Graduate 2010-14, First Division
 
 <!-- EDUCATION Section Ends -->
